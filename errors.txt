@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label start is defined twice, at File "game/options.rpy", line 39:
+label start:
+and File "game/script.rpy", line 11:
+label start:
+
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Tue Mar 12 10:40:40 2024
